@@ -49,7 +49,7 @@ jobs:
                 return 0
               else
                 return 1
-              files
+              fi
 
 # Sequential workflow
 workflows:
